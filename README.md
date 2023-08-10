@@ -17,5 +17,5 @@ Sign Language Detection is a project that uses machine learning to recognize sig
    ```bash
    git clone https://github.com/hynr/sign-language-detection.git
    cd sign-language-detection
-##Note
+Note:
 The inference.py file is set to automatically use datapoints of the alphabet in uppercase (A-Z), but can be set to anything for hand gesture recognization
